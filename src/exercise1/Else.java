@@ -3,7 +3,7 @@ package exercise1;
 import java.util.Scanner;
 
 public class Else {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         //Initialize values we know
         int quota = 10;

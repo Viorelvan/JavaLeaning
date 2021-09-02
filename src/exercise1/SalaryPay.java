@@ -3,7 +3,7 @@ package exercise1;
 import java.util.Scanner;
 
 public class SalaryPay {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         //Initiate known values
         int salary = 1000;
